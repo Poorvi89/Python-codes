@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+GRAY-SCOTT MODEL
 
 You can use the [editor on GitHub](https://github.com/Poorvi89/Python-codes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
