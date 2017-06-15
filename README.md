@@ -1,9 +1,9 @@
 ## Welcome to GitHub Pages
 GRAY-SCOTT MODEL
-The Gray Scott model follows some simple rules. Given two sets of virtual particles u and v: \n
-(1) There's a constant feed rate of u particles into the system \n
-(2) If two v particles meet a u particle, they 'convert' it into another v particle \n
-(3) There's a constant kill rate that removes v particles\n
+The Gray Scott model follows some simple rules. Given two sets of virtual particles u and v: 
+1. (1) There's a constant feed rate of u particles into the system 
+1. (2) If two v particles meet a u particle, they 'convert' it into another v particle 
+1. (3) There's a constant kill rate that removes v particles 
 
 The Gray-Scott partial differential equations are given as
 
