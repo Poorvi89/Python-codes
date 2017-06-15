@@ -76,7 +76,27 @@ We have a system of two coupled equations that can describe the fluid flow in a 
 ```
 Solve Stokes flow in a lid-driven cavity
 
+```
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <msup>
+    <mi mathvariant="normal">&#x2207;<!-- ∇ --></mi>
+    <mn>4</mn>
+  </msup>
+  <mi>&#x03C8;<!-- ψ --></mi>
+  <mo>=</mo>
+  <mn>0</mn>
+  <mtext>&#xA0;</mtext>
+  <mtext>&#xA0;</mtext>
+  <mtext>&#xA0;</mtext>
+  <mtext>&#xA0;</mtext>
+  <mtext>&#xA0;</mtext>
+  <mo stretchy="false">(</mo>
+  <mn>13</mn>
+  <mo stretchy="false">)</mo>
+</math>
 
+
+```
 
 
 
